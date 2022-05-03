@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue May 03 19:37:07 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : FSM
+Top-level Entity Name : fsm
+Family : Cyclone 10 LP
+Device : 10CL120ZF780I8G
+Timing Models : Final
+Total logic elements : 572 / 119,088 ( < 1 % )
+    Total combinational functions : 570 / 119,088 ( < 1 % )
+    Dedicated logic registers : 27 / 119,088 ( < 1 % )
+Total registers : 27
+Total pins : 348 / 526 ( 66 % )
+Total virtual pins : 0
+Total memory bits : 0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 576 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

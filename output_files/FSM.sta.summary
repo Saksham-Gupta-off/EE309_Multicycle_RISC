@@ -1,0 +1,365 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1000mV 100C Model Setup 'state.s1'
+Slack : -6.826
+TNS   : -185.538
+
+Type  : Slow 1000mV 100C Model Setup 'state.s5'
+Slack : -6.355
+TNS   : -174.709
+
+Type  : Slow 1000mV 100C Model Setup 'state.s16'
+Slack : -6.097
+TNS   : -187.201
+
+Type  : Slow 1000mV 100C Model Setup 'state.s14'
+Slack : -4.660
+TNS   : -50.751
+
+Type  : Slow 1000mV 100C Model Setup 'state.s0'
+Slack : -4.390
+TNS   : -141.747
+
+Type  : Slow 1000mV 100C Model Setup 'state.s24'
+Slack : -4.106
+TNS   : -93.556
+
+Type  : Slow 1000mV 100C Model Setup 'state.s6'
+Slack : -3.938
+TNS   : -61.585
+
+Type  : Slow 1000mV 100C Model Setup 'clock'
+Slack : -3.757
+TNS   : -42.544
+
+Type  : Slow 1000mV 100C Model Setup 'state.s11'
+Slack : -3.401
+TNS   : -87.594
+
+Type  : Slow 1000mV 100C Model Setup 'state.s15'
+Slack : -3.394
+TNS   : -50.883
+
+Type  : Slow 1000mV 100C Model Hold 'state.s5'
+Slack : -1.157
+TNS   : -2.887
+
+Type  : Slow 1000mV 100C Model Hold 'state.s24'
+Slack : -1.068
+TNS   : -9.495
+
+Type  : Slow 1000mV 100C Model Hold 'state.s0'
+Slack : -0.733
+TNS   : -6.584
+
+Type  : Slow 1000mV 100C Model Hold 'state.s14'
+Slack : -0.500
+TNS   : -2.073
+
+Type  : Slow 1000mV 100C Model Hold 'clock'
+Slack : -0.466
+TNS   : -0.466
+
+Type  : Slow 1000mV 100C Model Hold 'state.s1'
+Slack : -0.432
+TNS   : -0.603
+
+Type  : Slow 1000mV 100C Model Hold 'state.s16'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Hold 'state.s6'
+Slack : 0.255
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Hold 'state.s11'
+Slack : 0.646
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Hold 'state.s15'
+Slack : 1.537
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -50.601
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s1'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s0'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s24'
+Slack : 0.292
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s6'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s16'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s14'
+Slack : 0.303
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s15'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s11'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Slow 1000mV 100C Model Minimum Pulse Width 'state.s5'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Setup 'state.s1'
+Slack : -6.857
+TNS   : -184.866
+
+Type  : Slow 1000mV -40C Model Setup 'state.s5'
+Slack : -6.411
+TNS   : -174.715
+
+Type  : Slow 1000mV -40C Model Setup 'state.s16'
+Slack : -6.182
+TNS   : -180.682
+
+Type  : Slow 1000mV -40C Model Setup 'state.s14'
+Slack : -4.598
+TNS   : -51.846
+
+Type  : Slow 1000mV -40C Model Setup 'state.s0'
+Slack : -4.130
+TNS   : -141.469
+
+Type  : Slow 1000mV -40C Model Setup 'state.s24'
+Slack : -3.855
+TNS   : -90.908
+
+Type  : Slow 1000mV -40C Model Setup 'state.s6'
+Slack : -3.719
+TNS   : -59.713
+
+Type  : Slow 1000mV -40C Model Setup 'clock'
+Slack : -3.594
+TNS   : -38.734
+
+Type  : Slow 1000mV -40C Model Setup 'state.s11'
+Slack : -3.441
+TNS   : -86.463
+
+Type  : Slow 1000mV -40C Model Setup 'state.s15'
+Slack : -3.437
+TNS   : -52.478
+
+Type  : Slow 1000mV -40C Model Hold 'state.s5'
+Slack : -0.973
+TNS   : -2.535
+
+Type  : Slow 1000mV -40C Model Hold 'state.s24'
+Slack : -0.970
+TNS   : -6.459
+
+Type  : Slow 1000mV -40C Model Hold 'state.s0'
+Slack : -0.644
+TNS   : -2.111
+
+Type  : Slow 1000mV -40C Model Hold 'state.s14'
+Slack : -0.392
+TNS   : -1.377
+
+Type  : Slow 1000mV -40C Model Hold 'clock'
+Slack : -0.377
+TNS   : -0.377
+
+Type  : Slow 1000mV -40C Model Hold 'state.s1'
+Slack : -0.242
+TNS   : -0.242
+
+Type  : Slow 1000mV -40C Model Hold 'state.s16'
+Slack : 0.020
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Hold 'state.s6'
+Slack : 0.218
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Hold 'state.s11'
+Slack : 0.630
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Hold 'state.s15'
+Slack : 1.516
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -50.601
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s1'
+Slack : 0.059
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s16'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s0'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s24'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s14'
+Slack : 0.212
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s5'
+Slack : 0.281
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s6'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s11'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Slow 1000mV -40C Model Minimum Pulse Width 'state.s15'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Setup 'state.s1'
+Slack : -3.544
+TNS   : -87.575
+
+Type  : Fast 1000mV -40C Model Setup 'state.s5'
+Slack : -3.534
+TNS   : -90.464
+
+Type  : Fast 1000mV -40C Model Setup 'state.s16'
+Slack : -3.394
+TNS   : -89.069
+
+Type  : Fast 1000mV -40C Model Setup 'state.s14'
+Slack : -2.393
+TNS   : -24.560
+
+Type  : Fast 1000mV -40C Model Setup 'state.s0'
+Slack : -2.232
+TNS   : -58.640
+
+Type  : Fast 1000mV -40C Model Setup 'state.s24'
+Slack : -2.104
+TNS   : -37.031
+
+Type  : Fast 1000mV -40C Model Setup 'state.s6'
+Slack : -1.968
+TNS   : -27.036
+
+Type  : Fast 1000mV -40C Model Setup 'clock'
+Slack : -1.733
+TNS   : -16.017
+
+Type  : Fast 1000mV -40C Model Setup 'state.s11'
+Slack : -1.617
+TNS   : -36.465
+
+Type  : Fast 1000mV -40C Model Setup 'state.s15'
+Slack : -1.612
+TNS   : -24.159
+
+Type  : Fast 1000mV -40C Model Hold 'state.s5'
+Slack : -0.849
+TNS   : -2.207
+
+Type  : Fast 1000mV -40C Model Hold 'state.s24'
+Slack : -0.689
+TNS   : -2.404
+
+Type  : Fast 1000mV -40C Model Hold 'state.s1'
+Slack : -0.571
+TNS   : -1.368
+
+Type  : Fast 1000mV -40C Model Hold 'state.s0'
+Slack : -0.520
+TNS   : -2.083
+
+Type  : Fast 1000mV -40C Model Hold 'state.s14'
+Slack : -0.455
+TNS   : -1.693
+
+Type  : Fast 1000mV -40C Model Hold 'clock'
+Slack : -0.394
+TNS   : -0.394
+
+Type  : Fast 1000mV -40C Model Hold 'state.s6'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Hold 'state.s16'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Hold 'state.s11'
+Slack : 0.537
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Hold 'state.s15'
+Slack : 0.820
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -50.601
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s6'
+Slack : 0.287
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s14'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s16'
+Slack : 0.290
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s0'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s15'
+Slack : 0.319
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s11'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s24'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s1'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Fast 1000mV -40C Model Minimum Pulse Width 'state.s5'
+Slack : 0.360
+TNS   : 0.000
+
+------------------------------------------------------------
